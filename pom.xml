@@ -9,7 +9,7 @@
 
   <artifactId>github-api</artifactId>
   <version>1.96-SNAPSHOT</version>
-  <name>GitHub API for Java</name>
+  <name>GitHub API for Java TEST</name>
   <url>https://github-api.kohsuke.org/</url>
   <description>GitHub API for Java</description>
 
